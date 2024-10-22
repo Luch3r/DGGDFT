@@ -1,0 +1,19 @@
+.s1 {
+    background-color: aquamarine;
+    margin-left: 12px;
+    margin-bottom: 11px;
+}
+.s2 {
+    background-color: rgb(88, 0, 88);
+    margin-left: 12px;
+    margin-bottom: 11px;
+}
+.s3 {
+    background-color: rgb(250, 0, 0);
+    margin-left: 12px;
+    margin-bottom: 11px;
+}
+
+html{
+    background-color: black;
+}
